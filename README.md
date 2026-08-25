@@ -9,7 +9,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://kabsha1.github.io/my-porfolio" target="_blank">
+  <a href="https://beamish-axolotl-5aed30.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-Visit_My_Website-3B82F6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/kabshaharmine-bangalore-955771283/" target="_blank">
