@@ -24,7 +24,7 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Science Graduate (CGPA: 9.32/10) with a passion for building scalable web applications.
+- 🎓 Computer Science Graduate (CGPA: 9.39/10) with a passion for building scalable web applications.
 - 💼 Currently working as a **Software Development Intern** at JSpiders Training & Development Center.
 - 💻 Specializing in **backend architecture**, **RESTful APIs**, and **relational databases**.
 - 🚀 Always exploring new frameworks, cloud architectures, and DevOps tooling.
